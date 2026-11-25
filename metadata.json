@@ -1,0 +1,8 @@
+{
+  "name": " GeriAi",
+  "description": "A modern, bilingual AI chat platform featuring prompt suggestions, chat history, and customizable interface modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
